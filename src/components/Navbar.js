@@ -8,6 +8,7 @@ import IconButton from '@mui/material/IconButton';
 import Box from '@mui/material/Box';
 import { AccountCircle } from "@mui/icons-material";
 
+
 function Navbar() {
   return (
     <Box sx={{ flexGrow: 1 }}>
